@@ -1,0 +1,21 @@
+{
+  "name": "keepalive-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.12.0"
+  },
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.2",
+    "grpc": "^1.24.10",
+    "socket.io": "^4.1.2",
+    "socket.io-client": "^4.1.2"
+  }
+}
